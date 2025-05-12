@@ -9,6 +9,8 @@
 - Moore's Law: This is in regards to the increasing advancement of computers and how it is relatively inexpensive. The noted advancements are seen in the amount of memory, storage, and proccessor speed of computers
 - Arithmetic and Logic Unit (ALU): part of the central proccessing unit
 
+<br>
+
 ### self check for 1.2
 1. Every year or two, the capacities of computers have approximately doubled inexpensively. This remarkable trend is often called ____      **Answer:** Moore's Law
 2. Information in the memory unity is persistent-it's preserved even when the computer's power is turned off (T/F)      **Answer:** False memory is volatile and usually lost when power is turned off or disconnected abruptly
@@ -40,8 +42,12 @@
 ## 1.6) Operating Systems
 - Covered different and common OS's as well as a few foundaions and organizations
 
+<br>
+
 ## 1.7) Python
 - Discussion of the attributes and applications of Python
+
+<br>
 
 ## 1.8.1) Python standard Libraries
 1. csv - proccessing comma-seperated value files
@@ -77,5 +83,7 @@
 
 ## 1.10) Test-Drives: Using IPython and Jupyter Notebooks
 - Covered IPython which I used in the anaconda terminal as well as jupyter labs
+
+<br>
 
 ## 1.11 through rest of the chapter are more conceptual on topics such as AI and big data. Nothing notable in relation to python
