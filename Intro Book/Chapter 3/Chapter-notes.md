@@ -98,6 +98,9 @@
 - break: when used in a while or for loop, immediately exits the statement/loop
 - continue: when used in a while or for loop skips the remainder of the loop. Ex) in a for loop, if valuee == 5 continue, skips iteration where value  == 5
 
+- to left align: `{variable:<10}` 
+- Note commonly need to use f stringgs to use the :<# alignment attribute
+
 <br>
 
 ## 3.16) Boolean operators (and, or, not)
@@ -113,6 +116,3 @@
 - `sum(list of nums)` returns the sum of a list of int
 - `len(list)` returns the len of a specified list
 - Note the statistics module provides function for calculatingthe mean median and mode (a few side notes in statistics.py)
-
-
-## 3.18) Wrap up
