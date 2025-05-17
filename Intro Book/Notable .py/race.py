@@ -51,7 +51,7 @@ def main():
         if(intTortoiseLocation < 1):
             intTortoiseLocation = 1
         
-        # Debug statement to check location ints
+        # Debug statement to check location int values
         print(intTortoiseLocation, " ", intHareLocation)
 
         print(" ")
